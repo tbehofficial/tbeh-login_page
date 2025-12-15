@@ -1,14 +1,16 @@
 [
     {
-        "device_id": "e63f31e271585712",
-        "key": "qqqq",
-        "expirydate": "31-12-2026",
+        "device_id": "e63f85712",
+        "username": "1",
+        "password": "7876tttt",
+        "expirydate": "31-12-2025",
         "Allowoffline": true
     },
     {
-        "device_id": "device456",
-        "key": "key67890",
-        "expirydate": "15-06-2025",
+        "device_id": "e63f31e271585712",
+        "username": "1",
+        "password": "1",
+        "expirydate": "15-06-2026",
         "Allowoffline": false
     }
 ]
